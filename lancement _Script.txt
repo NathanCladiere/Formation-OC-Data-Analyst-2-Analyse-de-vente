@@ -1,0 +1,19 @@
+Projet 4 CLADIERE Nathan DA OC
+Explication du lancement des Scripts 
+------------------------------------
+D'abord lancer le code nettoyage de données afin de générer les fichiers pour l'analyse de données
+------------------------------------
+1/Nettoyage données
+-Lancer "P4_01_scriptDonnées" 
+-Dans la 2ème cellule indiquer l'emplacement de vos fichiers 
+	-ventes fichier "transactions"
+	-clients fichier "customers"
+	-produits fichier "products"
+-Exécuter les cellules
+------------------------------------ 
+2/Analyse de données 
+-Lancer "P4_02_scriptAnalyse"
+-Exécuter les cellules, ou indiquer préciséments l'emplacement des fichiers issus du nettoyage de donnée (en cellule 2) 
+	-ventes fichier "ventesOK"
+	-clients fichier "clientsOK"
+	-proudits fichier "produitsOK"
